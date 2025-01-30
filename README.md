@@ -3,6 +3,11 @@
 This repository showcases the trainings and certifications I have completed to enhance my knowledge and skills in IT, cybersecurity, project management, and business productivity.
 
 ---
+## Table of Contents
+- [IT & Cybersecurity](#it--cybersecurity)
+- [Cloud & Server Technologies](#cloud--server-technologies)
+- [Business & Project Management](#business--project-management)
+- [Business Productivity Tools](#business-productivity-tools)
 
 ## **Trainings Completed**
 
